@@ -133,7 +133,11 @@ performance.
 
 Given all the above types of performance metrics, it's hopefully clear that no
 single metric is sufficient to capture all the performance characteristics of a
-page.
+page.[Updated]
+
+## New added header text [New]
+
+[New] Anoter next added in origin. Performance of the night. Perfect world and other words here are presented.
 
 ## Important metrics to measure
 
@@ -179,6 +183,8 @@ requires additional metrics to capture the full performance picture. For
 example, the LCP metric is intended to measure when a page's main content has
 finished loading, but there could be cases where the largest element is not part
 of the page's main content and thus LCP may not be relevant.
+
+[New] just add one another paragraph with useless information.
 
 To address such cases, the Web Performance Working Group has also standardized
 lower-level APIs that can be useful for implementing your own custom metrics:
